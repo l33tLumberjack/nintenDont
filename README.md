@@ -2,7 +2,7 @@
 A cute little script that I whipped up one evening that can be used to kick Nintendo DS users off of a local wireless game in progress.
 
 ##Notes
-Requires pcregrep and the aireplay-ng to run. 
+Requires pcregrep, airmon-ng and aireplay-ng to run. Must be run as root.
 Any statements that are surrounded by DEBUG can be commented out in use as they are just for my dev sanity.
 
 ##Side Effects
